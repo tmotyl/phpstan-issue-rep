@@ -1,0 +1,1 @@
+# phpstan-issue-rep
