@@ -1,0 +1,6 @@
+parameters:
+    bootstrapFiles:
+        - bootstrap.php
+    paths:
+         - %currentWorkingDirectory%/code
+    level: 0
